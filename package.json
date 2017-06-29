@@ -1,5 +1,5 @@
 {
-    "name": "toggleClassButton",
+    "name": "toggle-class-button",
     "title": "jQuery Toggle Class Button",
     "description": "jQuery plugin for toggling class names on a target element when triggering an event on another element",
     "homepage": "https://github.com/bberg11/jquery-toggleClassButton",
