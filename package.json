@@ -1,0 +1,27 @@
+{
+    "name": "toggleClassButton",
+    "title": "jQuery Toggle Class Button",
+    "description": "jQuery plugin for toggling class names on a target element when triggering an event on another element",
+    "homepage": "https://github.com/bberg11/jquery-toggleClassButton",
+    "version": "1.0.0",
+    "author": {
+        "name": "Brian Berg",
+        "email": "bberg11@gmail.com",
+        "url": "https://github.com/bberg11"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "jquery": ">=1.5.1"
+    },
+    "description": "",
+    "keywords": [
+        "jquery-plugin",
+        "jquery",
+        "toggle",
+        "DOM Manipulation",
+        "class"
+    ],
+    "files": [
+        "dist"
+    ]
+}
